@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Demo_TestNG1.Demo_TestNG1.SDFCLoginNG">
+        <methods>
+          <include name="report"/>
+          <include name="closeReport"/>
+          <include name="close"/>
+          <include name="Testcase4b"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- Demo_TestNG1.Demo_TestNG1.SDFCLoginNG -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
