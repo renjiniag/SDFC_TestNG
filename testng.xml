@@ -3,15 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Demo_TestNG1.Demo_TestNG1.SDFCLoginNG">
-      <methods>
-      <include name='Testcase4b'></include></methods>
-      </class>
+      <class name="Demo_TestNG1.Demo_TestNG1.TekarchTest"/>
+      
     </classes>
   </test> <!-- Test -->
-  <!-- <test thread-count="5" name="Test1">
-    <classes>
-      <class name="Demo_TestNG1.Demo_TestNG1.SDFCLoginNG"/>
-    </classes>
-  </test> Test -->
 </suite> <!-- Suite -->
